@@ -50,7 +50,7 @@ graph TD
 ## 🛠️ 构建与运行
 
 ### 📦 依赖项
-- C编译器 (GCC或Clang)
+- C编译器 (Qt Creator或GCC)
 - Make工具
 
 ### 🔧 编译步骤
